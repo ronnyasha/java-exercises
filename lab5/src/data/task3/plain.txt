@@ -1,0 +1,2 @@
+This is a secret message.
+Java I/O Streams are powerful.
